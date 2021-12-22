@@ -1,0 +1,89 @@
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csprojAssemblyReference.cache
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\DisplayShop.g.cs
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\MainWindow.g.cs
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\App.g.cs
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_Content.g.cs
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_MarkupCompile.cache
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_MarkupCompile.lref
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\x86\sqlite3.dll
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\x64\sqlite3.dll
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.exe.config
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.exe
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.pdb
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.dll
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.xml
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\DisplayShop.baml
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\MainWindow.baml
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.g.resources
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.Properties.Resources.resources
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.GenerateResource.cache
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.CopyComplete
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.exe
+C:\Users\Alicja Janeczko\OneDrive\Pulpit\Alicja\Szkoła\OOP\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.pdb
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\x86\sqlite3.dll
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\x64\sqlite3.dll
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.exe.config
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.exe
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.pdb
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.dll
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.xml
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csprojAssemblyReference.cache
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\DisplayShop.g.cs
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\MainWindow.g.cs
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\App.g.cs
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_Content.g.cs
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_MarkupCompile.cache
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_MarkupCompile.lref
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\DisplayShop.baml
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\MainWindow.baml
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.g.resources
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.Properties.Resources.resources
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.GenerateResource.cache
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.CoreCompileInputs.cache
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.CopyComplete
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.exe
+C:\Users\Alicja\Desktop\Alicja pliki\Szkoła\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.pdb
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\x86\sqlite3.dll
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\x64\sqlite3.dll
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.exe.config
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.exe
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\JaneczkoSklep.pdb
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.dll
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.dll
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.xml
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.xml
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\DisplayShop.g.cs
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\MainWindow.g.cs
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\App.g.cs
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_Content.g.cs
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_MarkupCompile.cache
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep_MarkupCompile.lref
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\DisplayShop.baml
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\MainWindow.baml
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.g.resources
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.Properties.Resources.resources
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.GenerateResource.cache
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.csproj.CopyComplete
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.exe
+C:\Users\isabe\OneDrive\Pulpit\PLIKI\SZKOŁA\OOP\1 klasa\JaneczkoSklep\JaneczkoSklep\obj\Debug\JaneczkoSklep.pdb
